@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+.rate{
+    width: 350px;
+  margin: 250px auto;
+  
+    background-color: rgb(40, 40, 41);
+    align-items: center;
+    border-radius: 15px;
+    
+}
+.rate #star{
+    padding: 20px;
+   opacity: 1
+}
+.rate b{
+    padding-left: 20px;
+    font-style:initial;
+    font-size: large;
+    color: white;
+}
+.rate p{
+    padding-left: 20px;
+    color: rgb(182, 199, 214);
+}
+.rate .cirbutton{
+    padding-left: 20px;
+   width: 100%;
+   
+}
+    
+
+.rate .cirbutton .button1{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+     margin-right: 0.3rem;
+     margin-left: 0.3rem;
+     opacity: 0.3;
+     
+
+}
+
+.rate .submit{
+    padding: 20px;
+}
+
+.rate .submit button{
+    width: 100%;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(226, 154, 21);
+}
