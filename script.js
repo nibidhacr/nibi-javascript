@@ -1,5 +1,11 @@
 function myfunction(){
-   alert("thank you for the rating")
+   alert("thank you for the rating");
+   
+   document.getElementById("star1").style.color="black";
+   document.getElementById("star2").style.color="black";
+   document.getElementById("star3").style.color="black";
+   document.getElementById("star4").style.color="black";
+   document.getElementById("star5").style.color="black";
     
     
  }
